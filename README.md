@@ -57,8 +57,8 @@ Para executar o projeto
   # instalar as dependencias
   npm install
 
-  # gerar os modelos do prisma
-  npx prisma generate
+  # criar o banco de dados e gerar os modelos do prisma
+  npx prisma migrate dev
 
   # executar o projeto
   npm run start
@@ -103,6 +103,9 @@ Para executar o projeto
 
   # gerar os modelos do prisma
   npx prisma generate
+
+  # criar o banco de dados
+  npx prisma db push
 
   # executar o projeto
   npm run start
