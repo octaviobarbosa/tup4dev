@@ -1,10 +1,11 @@
 # TECNOUPDATE FOR DEV
 
 ## Microserviços na prática
-Arquitetura de microsserviços com um exemplo prático desenvolvido em nodejs
+Arquitetura de microsserviços com um exemplo prático desenvolvido em nodejs na versão 18
 
 ## Arquitetura de exemplo
 ![app-example](./assets/exemplo.png)
+
 
 ## Configuração
 
